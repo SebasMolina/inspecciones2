@@ -1,0 +1,71 @@
+{
+	"datosSiniestro": {
+		"siniestroNro": 21548,
+		"rama": "automoviles",
+		"idOperacion": "24/11/2021",
+		"fechaDelSiniestro": "27/11/2021",
+		"horaDelSiniestro": "15:00 PM",
+		"fechaDeDenuncia": "20/11/2021",
+		"causa": "-----",
+		"estadoDelSiniestro": "-----"
+	},
+	"datosAsegurado": {
+		"asegurado": 21548,
+		"tipoDeDocumento": "DNI",
+		"nroDocumento": 258947125,
+		"cuit": "2-25894123",
+		"telefono": 1128784592,
+		"direccion": "Gracia 547 7A",
+		"localidad": "Núñez",
+		"provincia": "C.A.B.A",
+		"codigoPostal": 2015,
+		"sufijoCodigoPostal": "-----"
+	},
+	"datosPoliza": {
+		"polizaNro": 21548,
+		"rama": "Automoviles",
+		"fechaDeFacturacion": "25/10/2021",
+		"productor": "-----",
+		"niveldeProductor": "-----",
+		"fechaDeDenuncia": "09/08/2021",
+		"vigenciaDesde": "-----",
+		"vigenciaHasta": "-----",
+		"cobertura": "-----",
+		"sumaAsegurada": "-----",
+		"valorDeFranquicia": "-----",
+		"articulo": 12,
+		"nroDeOperacion": 1234,
+		"nroDeSuperpoliza": 1234,
+		"suplementoSuperpoliza": 1234
+	},
+	"datosVehiculo": {
+		"marca": "Honda",
+		"modelo": "Cívico",
+		"submodelo": "Confort",
+		"anio": 2018,
+		"tipoDePatente": "-----",
+		"patente": "-----",
+		"motor": 2.0,
+		"chasis": "-----",
+		"tipoDeVehiculo": "Sedán",
+		"uso": "particular",
+		"carroceria": "-----",
+		"motorizacion": "-----"
+	},
+	"datosInspeccion": {
+		"inspeccionNro": 1248975,
+		"siniestroNro": 21548,
+		"poliza": 3251,
+		"estado": "Pendiente",
+		"fechaDeSolicitud": "24/11/2021",
+		"inspector": "Juan Pérez",
+		"tarea": "-------",
+		"direccion": "García 547 7A",
+		"provincia": "C.A.B.A",
+		"localidad": "Núñez",
+		"fechaProgramada": "27/11/2021",
+		"horaDesde": "15:00 PM",
+		"horaHasta": "17:00 PM"
+
+	}
+}
